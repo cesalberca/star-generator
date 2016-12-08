@@ -86,7 +86,7 @@
     c.width = w
     c.height = h
     
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 3; i++) {
       polygons.push(generatePolygon())  
     }
     
